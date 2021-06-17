@@ -1,0 +1,28 @@
+body {
+    background-color: #00d9ff;
+}
+.4d-head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 30%;
+    margin-bottom: 15px; 
+    height: 30px;
+}
+.4d i {
+    float: right;
+}
+
+/*  #new1 {
+    background-color: #14ec4a;
+}
+ #new1 img {
+    height: 260px; 
+    width: 260px;
+    border-radius: 39px;
+} */
+
+.img-responsive {
+    border-radius: 39px;
+    width: 300px;
+    height: 300px;
+}
